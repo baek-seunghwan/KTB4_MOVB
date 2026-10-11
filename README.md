@@ -1,5 +1,4 @@
-# MOVB
-
+# MOVB [![CI](https://github.com/baek-seunghwan/ChatBot/actions/workflows/ci.yml/badge.svg)](https://github.com/baek-seunghwan/ChatBot/actions/workflows/ci.yml)
 [![CI](https://github.com/baek-seunghwan/ChatBot/actions/workflows/ci.yml/badge.svg)](https://github.com/baek-seunghwan/ChatBot/actions/workflows/ci.yml)
 
 MOVB는 자연어 기반 배송 접수와 운영 업무를 지원하는 FastAPI 웹 서비스입니다.
